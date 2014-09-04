@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://aera7.github.io/atom.xml" rel="self"/>
+  <link href="http://aera7.github.io/"/>
+  <updated>2014-09-04T22:31:48+02:00</updated>
+  <id>http://aera7.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Post 2]]></title>
+    <link href="http://aera7.github.io/blog/2014/09/04/post-2/"/>
+    <updated>2014-09-04T20:35:28+02:00</updated>
+    <id>http://aera7.github.io/blog/2014/09/04/post-2</id>
+    <content type="html"><![CDATA[<p>All you need to know about the world and yesterday.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://aera7.github.io/blog/2014/09/04/hello-world/"/>
+    <updated>2014-09-04T20:34:43+02:00</updated>
+    <id>http://aera7.github.io/blog/2014/09/04/hello-world</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
